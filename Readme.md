@@ -1,0 +1,1 @@
+Construct an Interval class that has full functionallity, including overloading operators.
